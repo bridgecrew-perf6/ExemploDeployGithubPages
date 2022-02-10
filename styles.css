@@ -1,0 +1,43 @@
+body {
+  color: #000000;
+  font-family: Arial, Verdana;
+  font-size: 10pt;
+  background-color: white;
+}
+
+h4 {
+  color: lightgreen;
+  font-size: 11pt;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+h5 {
+  font-style: italic;
+}
+
+p {
+  font-style: italic;
+  margin: 0;
+}
+
+tr {
+  line-height: 10ch;
+}
+
+a {
+  color: #00ffff;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #77ff99;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #ccffff;
+  text-decoration: underline;
+}
